@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // Use '/' for custom domain deployment
   // Change to '/personal-website/' if deploying to GitHub Pages project site
-  base: '/',
+  base: '/personal-website/',
 })
